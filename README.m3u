@@ -1,7 +1,4 @@
-# ContactUs
 
-#EXTINF:1, [B][COLOR red]Contact Us[/B][/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, [COLOR blue]Contact Us For Any Suggestion, Comment, etc : d2bleym@yahoo.com[/COLOR]
+#EXTINF:1, [COLOR blue]Contact Us For Any Suggestion, 
+Comment, etc : d2bleym@yahoo.com[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
