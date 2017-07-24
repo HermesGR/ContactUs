@@ -3,5 +3,5 @@
 #EXTINF:1, [B][COLOR green]Contact Us[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR green]Contact Us at d2bleym@yahoo.com for ANY reason, for your comments, etc.[/COLOR]
+#EXTINF:1, [COLOR green]Contact Us at: d2bleym@yahoo.com for ANY reason, for your comments, etc.[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
